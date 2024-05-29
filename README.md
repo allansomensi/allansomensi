@@ -19,8 +19,4 @@ Backend student
 [![Youtube](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg)](https://youtube.com/@allansomensi)
 <a href="https://x.com/allanrsomensi" target="_blank"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/x/x-light.svg" alt="x logo" width="43" height="43"/></a>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/allansomensi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
 [![roadmap.sh](https://roadmap.sh/card/tall/65e7b54ad8455747573c7bf2?variant=dark&roadmaps=python%2Cjavascript%2Cfrontend%2Cbackend)](https://roadmap.sh)
