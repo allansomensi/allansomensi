@@ -5,11 +5,11 @@ Backend student
 ---------------
 
 * 🌍  I'm based in Brazil
-* 🧠  Currently learning Django with React.
+* 🧠  Currently learning Rust for backend (APIs).
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,postman,git,postgres,nextjs,nodejs,tailwind&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,ts,nodejs,py,tauri,nextjs,react,django,git,docker,postgres,tailwind,postman,vscode,debian,windows&perline=4)](https://skillicons.dev)
 
 ### Socials
 
@@ -18,4 +18,4 @@ Backend student
 [![LinkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg)](https://linkedin.com/in/allansomensi)
 [![Youtube](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg)](https://youtube.com/@allansomensi)
 
-[![roadmap.sh](https://roadmap.sh/card/tall/65e7b54ad8455747573c7bf2?variant=dark&roadmaps=python%2Cjavascript%2Cfrontend%2Cbackend)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/65e7b54ad8455747573c7bf2?variant=dark&roadmaps=python%2Cbackend%2Crust%2Ctypescript)](https://roadmap.sh)
